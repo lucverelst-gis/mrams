@@ -1,0 +1,16 @@
+
+
+[general]
+name=2_MRDS_LoadMap
+qgisMinimumVersion=2.0
+description=Myanmar Road Database
+version=0.1
+author=LucV
+email=luc.verelst@gmail.com
+about=MRDS
+
+
+# experimental flag
+experimental=False
+
+

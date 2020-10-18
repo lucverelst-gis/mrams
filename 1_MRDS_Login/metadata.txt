@@ -1,0 +1,16 @@
+
+
+[general]
+name=1_MRDS_Login
+qgisMinimumVersion=2.0
+description=Myanmar Road Database
+version=0.1
+author=LucV
+email=Luc.Verelst@gmail.com
+about=MRDS
+
+
+# experimental flag
+experimental=True
+
+

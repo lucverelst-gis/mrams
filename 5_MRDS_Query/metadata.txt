@@ -1,0 +1,24 @@
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py will
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=5_MRDS_Query
+qgisMinimumVersion=2.0
+description=Query and reporting
+version=0.1
+author=luv
+email=luc.verelst@gmail.com
+
+about=Query MRDS Database
+
+tracker=www.google.com
+repository=www.google.com
+# End of mandatory metadata
+
+
+

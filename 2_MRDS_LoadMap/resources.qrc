@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/2_MRDS_LoadMap" >
+        <file>layer.png</file>
+    </qresource>
+</RCC>

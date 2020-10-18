@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/1_MRDS_Login" >
+        <file>connect.png</file>
+    </qresource>
+</RCC>

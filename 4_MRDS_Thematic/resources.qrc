@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/4_Thematic_Template" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

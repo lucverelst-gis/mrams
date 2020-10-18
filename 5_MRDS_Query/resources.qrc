@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/5_MRDS_Query" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

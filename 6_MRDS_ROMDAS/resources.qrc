@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/6_MRDS_ROMDAS" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

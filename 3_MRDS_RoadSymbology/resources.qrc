@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/3_MRDS_RoadSymbology" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

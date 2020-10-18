@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/7_MRDS_Romdas_Manage" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
